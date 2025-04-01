@@ -1,7 +1,7 @@
 ===================================================
             Projet de Cryptographie : AES, DES & RSA
 ===================================================
-Auteur : Mohamed Taha Aboumehdi Hassani, Wadie Kadiri  
+Auteur : Mohamed Taha Aboumehdi Hassani
 Date : Décembre 2024  
 ===================================================
 
